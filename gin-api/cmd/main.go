@@ -1,9 +1,12 @@
 package main
 
 import (
-	"gin-api/config"
-	"gin-api/db"
-	"gin-api/routes"
+	// Adjust based on your module name
+	// If you need to import models
+	// If you have a services directory
+	// If you have a utils directory
+	"gin-dep/config"
+	"gin-dep/routes"
 	"log"
 
 	"github.com/gin-gonic/gin"
